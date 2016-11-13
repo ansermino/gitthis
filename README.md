@@ -5,4 +5,4 @@ Calls `git add .`, `git commit -m MESSAGE` and `git push origin master`, where M
 
 ## Usage
   Use `./git-this.sh MESSAGE` if running directly from script. 
-  NOTE: Message argument should NOT be enclosed in quotes
+  Note: Message argument should NOT be enclosed in quotes.
